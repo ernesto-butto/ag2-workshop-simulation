@@ -1,6 +1,6 @@
 # ag2-workshop-simulation
 
-## Parte 1:
+## Parte 1: Quick Start
 - Corre paso a paso el quick start the ag2 en el notebook `01_quickstart.ipynb`
 
 ## Parte 2: Agente Creador de Escenarios
